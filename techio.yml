@@ -4,6 +4,8 @@ plan:
   plan:
   - title: Présentation
     statement: markdowns/welcome.md
+  - title: Généralités
+    statement: Generalite_python/Generalite_python.md
 - title: Niveau 2nde
   plan:
   - title: 1. Variables et opérations
