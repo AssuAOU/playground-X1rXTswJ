@@ -2,7 +2,7 @@
 
 Bienvenue dans ce recueil d'exercices pour prendre en main Python.
 
-Le but de ce recueil est de regrouper des exercices à travailler en autonomie, en classe ou à la maison, dans le but d'apprendre progressivement le langage Python.
+Le but de ce recueil est de regrouper des exercices pour travailler en autonomie, en classe ou à la maison, dans le but d'apprendre progressivement le langage Python.
 
 # Comment ça marche ?
 
@@ -17,5 +17,6 @@ Il faut bien faire attention à décaler ce que l'on écrit au même niveau que 
 
 @[Exemple ]({"stubs": ["Variables_et_fonctions/Prise_en_main_Exo_1.py"], "command": "python3 Variables_et_fonctions/Hello_world_test.py"})
 
+Maintenant que vous vous êtes entrainés sur cette exemple, nous allons commencer.
 
-
+![Minion](http://octodex.github.com/images/minion.png)
