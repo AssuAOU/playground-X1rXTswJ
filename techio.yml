@@ -8,19 +8,21 @@ plan:
     statement: Generalite_python/Generalite_python.md
 - title: Niveau 2nde
   plan:
-  - title: 1. Variables et opérations
+  - title: 2. Affichage et commentaires
+    statement: Affichage_commentaires/Affichage_commentaires.md
+  - title: 3. Variables et opérations
     statement: Variables_et_fonctions/Cours variables et operations.md
-  - title: 2. Instructions conditionnelles
+  - title: 4. Instructions conditionnelles
     statement: Les_conditions/Cours conditions.md
-  - title: 3. Boucles While
+  - title: 5. Boucles While
     statement: Les_boucles/Cours boucles while.md
-  - title: 4. Boucles For
+  - title: 6. Boucles For
     statement: Les_boucles/presentation_for.md
-  - title: 5. Compléments
+  - title: 7. Compléments
     statement: Les_boucles/Complements boucles.md
-  - title: 6. Les fonctions
+  - title: 8. Les fonctions
     statement: Variables_et_fonctions/Cours introduction fonction.md
-  - title: 7. Résumé
+  - title: 9. Résumé
     statement: Cours/resume/resume.md
 - title: Niveau 1ère
   plan:
