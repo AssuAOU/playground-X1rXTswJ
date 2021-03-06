@@ -8,6 +8,8 @@ plan:
     statement: Generalite_python/Generalite_python.md
 - title: Niveau 2nde
   plan:
+  - title: 1. Silent Teacher
+    statement: Silent_Teacher/Silent_Teacher.md
   - title: 2. Affichage et commentaires
     statement: Affichage_commentaires/Affichage_commentaires.md
   - title: 3. Variables et opérations
