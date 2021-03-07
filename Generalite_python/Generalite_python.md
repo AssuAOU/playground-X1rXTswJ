@@ -7,7 +7,7 @@ Selon Wikipedia:
 Il est conçu pour optimiser la productivité des programmeurs en offrant des outils de haut niveau et une syntaxe simple à utiliser.
 Il est également apprécié par certains pédagogues qui y trouvent un langage où la syntaxe, permet une initiation aisée aux concepts de base de la programmation."[1]
 
-En clair, c'est un langage de programmation **facile à manipuler** et qui peut s'executer sur n'importe quelle (Windows, MAC, Android, Linux).
+En clair, c'est un langage de programmation **facile à manipuler** et qui peut s'executer sur n'importe quelle plateforme(Windows, MAC, Android, Linux).
 Ce qui en fait donc un candidat idéal pour s'initier à la programmation au lycée.
 Mais est-ce que son usage s'arrète uniquement au lycée?
 
@@ -18,7 +18,7 @@ aussi bien dans l'industrie que dans le monde académique pour une large gamme d
 
 Ce qui veut dire que l'on se sert de ce langage  à l'école, ça ne s'arrête pas là.
 En effet, on l'utilise en entreprise et dans les laboratoires de recherches.
-Il est très apprécié en mathématiques car c'est un puissant outil pour calculer, vérifier, modéliser en toute simplicité.
+Il est très apprécié en mathématiques car c'est un puissant outil pour calculer, vérifier et modéliser en toute simplicité.
 En informatique, on s'en sert beaucoup pour automatiquer les taches répétitifs.
 Par exemple, on peut facilement récupérer la météo sur internet à l'aide de python.
 
@@ -41,7 +41,7 @@ Voici quelques QCM pour voir si tu as bien compris. N'hésite pas à relire ce q
 
 ###### QCM 1
 
-?[Python est un langage ]
+?[Python est un langage dit ]
 -[ ] ^-^
 -[ ] compilé
 -[x] interprété
